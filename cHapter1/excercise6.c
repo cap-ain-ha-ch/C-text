@@ -2,7 +2,6 @@
 
 int main(){
     int c;
-    c = 'a';
+    c = getchar() != EOF;
     printf("%d", c);
-    putchar(c);
 }
