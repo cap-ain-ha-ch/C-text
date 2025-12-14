@@ -2,7 +2,7 @@
 
 int main(){
     char c;
-    c = 'A' + 5;
+    c = 'ArrY';
     printf("%c", c);
 
 }
